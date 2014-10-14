@@ -3,5 +3,6 @@
   <packagedElement xmi:type="uml:Package" xmi:id="_YUgp4FFqEeSEd7W-PPS4NQ" name="domaine">
     <packagedElement xmi:type="uml:Class" xmi:id="_oF2bsFFqEeSEd7W-PPS4NQ" name="Joueur"/>
     <packagedElement xmi:type="uml:Class" xmi:id="_m0WM4FLxEeSPSqUC4BHECA" name="Partie"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_uHuhkFO6EeSPSqUC4BHECA" name="jeu"/>
   </packagedElement>
 </uml:Model>
