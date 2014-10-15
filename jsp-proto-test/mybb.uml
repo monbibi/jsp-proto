@@ -5,6 +5,7 @@
     <packagedElement xmi:type="uml:Class" xmi:id="_m0WM4FLxEeSPSqUC4BHECA" name="Partie"/>
     <packagedElement xmi:type="uml:Class" xmi:id="_uHuhkFO6EeSPSqUC4BHECA" name="jeu">
       <ownedAttribute xmi:id="_jP4Y0FO7EeSPSqUC4BHECA" name="nom"/>
+      <ownedAttribute xmi:id="_Ct9bIFR-EeSNFNMhqBb-xg" name="type"/>
     </packagedElement>
   </packagedElement>
 </uml:Model>
