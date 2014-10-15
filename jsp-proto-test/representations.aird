@@ -36,6 +36,9 @@
               <children xmi:type="notation:Node" xmi:id="_ELaQkFR-EeSNFNMhqBb-xg" type="3010" element="_EKcnQFR-EeSNFNMhqBb-xg">
                 <layoutConstraint xmi:type="notation:Location" xmi:id="_ELaQkVR-EeSNFNMhqBb-xg"/>
               </children>
+              <children xmi:type="notation:Node" xmi:id="_SFP78FSDEeSXbsCjSL9CGQ" type="3010" element="_SFBScFSDEeSXbsCjSL9CGQ">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_SFP78VSDEeSXbsCjSL9CGQ"/>
+              </children>
               <styles xmi:type="notation:SortingStyle" xmi:id="_uN6CEVO6EeSPSqUC4BHECA"/>
               <styles xmi:type="notation:FilteringStyle" xmi:id="_uN6CElO6EeSPSqUC4BHECA"/>
             </children>
@@ -99,6 +102,17 @@
             <description xmi:type="style:SquareDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Class%20Diagram']/@defaultLayer/@containerMappings[name='CD_ReusedMappingForFeatures']/@subNodeMappings[name='CD_Property']/@style"/>
             <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_EKd1YlR-EeSNFNMhqBb-xg"/>
             <color xmi:type="viewpoint:RGBValues" xmi:id="_EKd1Y1R-EeSNFNMhqBb-xg" red="136" green="136" blue="136"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Class%20Diagram']/@defaultLayer/@containerMappings[name='CD_ReusedMappingForFeatures']/@subNodeMappings[name='CD_Property']"/>
+        </ownedElements>
+        <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_SFBScFSDEeSXbsCjSL9CGQ" name="type2 :  [1]">
+          <target xmi:type="uml:Property" href="mybb.uml#_QyYl4FSDEeSXbsCjSL9CGQ"/>
+          <semanticElements xmi:type="uml:Property" href="mybb.uml#_QyYl4FSDEeSXbsCjSL9CGQ"/>
+          <ownedStyle xmi:type="diagram:Square" xmi:id="_SFB5gFSDEeSXbsCjSL9CGQ" labelAlignment="LEFT">
+            <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_SFB5gVSDEeSXbsCjSL9CGQ"/>
+            <description xmi:type="style:SquareDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Class%20Diagram']/@defaultLayer/@containerMappings[name='CD_ReusedMappingForFeatures']/@subNodeMappings[name='CD_Property']/@style"/>
+            <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_SFB5glSDEeSXbsCjSL9CGQ"/>
+            <color xmi:type="viewpoint:RGBValues" xmi:id="_SFB5g1SDEeSXbsCjSL9CGQ" red="136" green="136" blue="136"/>
           </ownedStyle>
           <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Class%20Diagram']/@defaultLayer/@containerMappings[name='CD_ReusedMappingForFeatures']/@subNodeMappings[name='CD_Property']"/>
         </ownedElements>
